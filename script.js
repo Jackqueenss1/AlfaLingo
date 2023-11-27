@@ -24,6 +24,6 @@ function playSound2(){
     snd.play()
 }
 function playSound3(){
-    var snd = new Audio('')
+    var snd = new Audio('C.mp3')
     snd.play()
 }
