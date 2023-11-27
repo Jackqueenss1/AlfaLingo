@@ -16,14 +16,14 @@ function showResponse(responseId) {
 
   //sound function
 function playSound1(){
-    var snd = new Audio('s1.mp3')//wav is also supported
+    var snd = new Audio('A.mp3')//wav is also supported
     snd.play()//plays the sound
 }
 function playSound2(){
-    var snd = new Audio('s2.mp3')
+    var snd = new Audio('B.mp3')
     snd.play()
 }
 function playSound3(){
-    var snd = new Audio('s3.mp3')
+    var snd = new Audio('')
     snd.play()
 }
