@@ -114,7 +114,8 @@ function playSound24(){
     var snd = new Audio('X.mp3')
     snd.play()
 }
-function playSound25(){Y.mp3')
+function playSound25(){
+    var snd = new Audio('Y.mp3')
     snd.play()
 }
 function playSound26(){
