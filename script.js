@@ -38,3 +38,23 @@ function playSound5(){
     var snd = new Audio('E.mp3')
     snd.play()
 }
+function playSound6(){
+    var snd = new Audio('F.mp3')//wav is also supported
+    snd.play()//plays the sound
+}
+function playSound7(){
+    var snd = new Audio('G.mp3')
+    snd.play()
+}
+function playSound8(){
+    var snd = new Audio('H.mp3')
+    snd.play()
+}
+function playSound9(){
+    var snd = new Audio('I.mp3')
+    snd.play()
+}
+function playSound10(){
+    var snd = new Audio('J.mp3')
+    snd.play()
+}
