@@ -84,93 +84,15 @@ header {
 }
 
 .b1{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
+    height:50px; 
+    width:80px; 
+    font-size: 30px; 
+    color: white; 
+    border: none; 
+    background-color: #274ce0; 
+    position: relative; top: -150px; 
+    right: -5px;
 }
-.b2{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b3{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b4{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b5{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b6{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
- .b7{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b8{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b9{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b10{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b11{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b12{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}   
-.b13{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b14{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b15{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b16{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b17{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b18{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b19{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b20{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b21{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b22{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b23{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b24{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b25{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b26{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-.b27{
-    height:50px; width:80px; color: white; font-size: 30px; border: none;  background-color: #04AA6D; position: relative; top: -150px; right: -30px;
-}
-.b28{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
-}
-.b29{
-    height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #FFC0CB; position: relative; top: -150px; right: -20px;
-}
-
 
 footer {
     text-align: center;
