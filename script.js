@@ -58,3 +58,79 @@ function playSound10(){
     var snd = new Audio('J.mp3')
     snd.play()
 }
+function playSound11(){
+    var snd = new Audio('A.mp3')//wav is also supported
+    snd.play()//plays the sound
+}
+function playSound12(){
+    var snd = new Audio('B.mp3')
+    snd.play()
+}
+function playSound13(){
+    var snd = new Audio('C.mp3')
+    snd.play()
+}
+function playSound14(){
+    var snd = new Audio('D.mp3')
+    snd.play()
+}
+function playSound15(){
+    var snd = new Audio('E.mp3')
+    snd.play()
+}
+function playSound16(){
+    var snd = new Audio('F.mp3')//wav is also supported
+    snd.play()//plays the sound
+}
+function playSound17(){
+    var snd = new Audio('G.mp3')
+    snd.play()
+}
+function playSound18(){
+    var snd = new Audio('H.mp3')
+    snd.play()
+}
+function playSound19(){
+    var snd = new Audio('I.mp3')
+    snd.play()
+}
+function playSound20(){
+    var snd = new Audio('J.mp3')
+    snd.play()
+}
+function playSound21(){
+    var snd = new Audio('A.mp3')//wav is also supported
+    snd.play()//plays the sound
+}
+function playSound22(){
+    var snd = new Audio('B.mp3')
+    snd.play()
+}
+function playSound23(){
+    var snd = new Audio('C.mp3')
+    snd.play()
+}
+function playSound24(){
+    var snd = new Audio('D.mp3')
+    snd.play()
+}
+function playSound25(){
+    var snd = new Audio('E.mp3')
+    snd.play()
+}
+function playSound26(){
+    var snd = new Audio('F.mp3')//wav is also supported
+    snd.play()//plays the sound
+}
+function playSound27(){
+    var snd = new Audio('G.mp3')
+    snd.play()
+}
+function playSound28(){
+    var snd = new Audio('H.mp3')
+    snd.play()
+}
+function playSound29(){
+    var snd = new Audio('I.mp3')
+    snd.play()
+}
