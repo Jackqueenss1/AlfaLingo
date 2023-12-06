@@ -70,8 +70,6 @@ header {
     position: relative;
     /*top: 5px; right: 20px;*/
 }
-   
-
 .b3{
     height:50px;
     width:80px;
@@ -83,16 +81,7 @@ header {
    /* top: 5px; right: 30px;*/
 }
 
-.b1{
-    height:50px; 
-    width:80px; 
-    font-size: 30px; 
-    color: white; 
-    border: none; 
-    background-color: #274ce0; 
-    position: relative; top: -150px; 
-    right: -5px;
-}
+
 
 footer {
     text-align: center;
