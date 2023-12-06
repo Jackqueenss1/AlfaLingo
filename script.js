@@ -4,7 +4,7 @@ document.getElementById('bar1').addEventListener('click', () => showResponse('re
 document.getElementById('bar2').addEventListener('click', () => showResponse('response2'));
 document.getElementById('bar3').addEventListener('click', () => showResponse('response3'));
 document.getElementById('bar4').addEventListener('click', () => showResponse('response4'));
-
+document.getElementById('bar5').addEventListener('click', () => showResponse('response5'));
 
 // Function to show response based on the clicked bar
 function showResponse(responseId) {
