@@ -30,3 +30,11 @@ function playSound3(){
     var snd = new Audio('C.mp3')
     snd.play()
 }
+function playSound4(){
+    var snd = new Audio('D.mp3')
+    snd.play()
+}
+function playSound5(){
+    var snd = new Audio('E.mp3')
+    snd.play()
+}
