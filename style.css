@@ -49,6 +49,40 @@ header {
     text-align: center;
     padding: 10px 0;
   }
+  
+  .b1{
+    height:50px;
+    width:80px;
+    font-size: 30px;
+    color: white;
+    border: none;
+    background-color: #274ce0;
+    position: relative;
+    /*top: 5px; right: 5px;*/
+}
+.b2{
+    height:50px;
+    width:80px;
+    font-size: 30px;
+    color: white;
+    border: none;
+    background-color: #FFC0CB; /* Blue */
+    position: relative;
+    /*top: 5px; right: 20px;*/
+}
+   
+
+.b3{
+    height:50px;
+    width:80px;
+    color: white;
+    font-size: 30px;
+    border: none;
+    background-color: #04AA6D;
+    position: relative;
+   /* top: 5px; right: 30px;*/
+}
+
 .b1{
     height:50px; width:80px; font-size: 30px; color: white; border: none; background-color: #274ce0; position: relative; top: -150px; right: -5px;
 }
