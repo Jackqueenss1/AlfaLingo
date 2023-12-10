@@ -99,7 +99,7 @@ function playSound20(){
     snd.play()
 }
 function playSound21(){
-    var snd = new Audio('Ump3')//wav is also supported
+    var snd = new Audio('U.mp3')//wav is also supported
     snd.play()//plays the sound
 }
 function playSound22(){
